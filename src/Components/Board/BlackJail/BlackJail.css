@@ -1,0 +1,7 @@
+.blackjail__container {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100px;
+    height: 400px;
+    flex-wrap: wrap;
+}

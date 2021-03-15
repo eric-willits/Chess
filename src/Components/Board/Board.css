@@ -1,0 +1,21 @@
+.board__board-container {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    justify-content: left;
+    position: relative;
+    margin: 0 50px;
+}
+
+.board__turn {
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}
+
+.board__black-jail {
+    width: 200px;
+    height: 400px;
+}
